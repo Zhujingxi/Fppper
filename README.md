@@ -1,2 +1,2 @@
 # Fppper
-Full 3d Printing 3d printer
+Fully 3d Printing 3d printer
